@@ -76,7 +76,7 @@ export default function Newsletter() {
       ">
 
         <img
-          src="https://images.unsplash.com/photo-1571908599407-cdb918ed83bf?w=2000"
+          src="/assets/p15.png"
           alt=""
           className="
             w-full
