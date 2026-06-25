@@ -122,10 +122,10 @@ export default function Header({
             <span className="text-[#C9A227] text-2xl">
               ✦
             </span>
-
+{/* 
             <span className="font-serif-display text-2xl md:text-3xl italic font-light">
-              COLLECTION
-            </span>
+              
+            </span> */}
           </button>
 
 
